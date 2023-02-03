@@ -65,3 +65,14 @@ console.log(d.getFullYear());
 
 // try{ throw "error" } catch { } finally{ }
 
+
+
+// #######################################################################################
+//                                                      Part 5 - contd
+// #######################################################################################
+
+//  Modele Example
+
+module.exports.hello = function (){
+    console.log("Hello Guys");
+}
